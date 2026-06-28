@@ -1,0 +1,2 @@
+# Interface
+rich>=14.0.0
